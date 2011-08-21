@@ -1,0 +1,10 @@
+name:           SimpleAlgorithmsHaskell
+version:        0.1
+cabal-version:  >= 1.2
+
+executable SimpleAlgorithmsHaskell
+  hs-source-dirs:  src
+  main-is:         Main.hs
+  build-depends:   base
+  other-modules:   EulerProblems
+
